@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Pemesanan&#xA;Tiket Kereta</string>
+    <string name="nama">Nama Pemesan</string>
+    <string name="jam">Jam Keberangkatan</string>
+    <string name="tanggal">Pilih Tanggal Keberangkatan</string>
+    <string name="tujuan">Tujuan</string>
+    <string name="pesan">Pesan Tiket</string>
+    <array name="stasiun">
+        <item>Tujuan</item>
+        <item>Stasiun Gambir (GMR)</item>
+        <item>Stasiun Pasar Senen (PSE)</item>
+        <item>Stasiun Jakarta Kota (JAKK)</item>
+        <item>Stasiun Jatinegara (JNG)</item>
+        <item>Stasiun Rangkasbitung (RK)</item>
+        <item>Stasiun Serang (SG)</item>
+        <item>Stasiun Cilegon (CLG)</item>
+        <item>Stasiun Merak (MER)</item>
+        <item>Stasiun Bandung (BD)</item>
+        <item>Stasiun Kiaracondong (KAC)</item>
+        <item>Stasiun Cirebon (CN)</item>
+        <item>Stasiun Tasikmalaya (TSM)</item>
+        <item>Stasiun Banjar (BJR)</item>
+        <item>Stasiun Semarang Tawang (SMT)</item>
+        <item>Stasiun Semarang Poncol (SMC)</item>
+        <item>Stasiun Purwokerto (PWT)</item>
+        <item>Stasiun Tegal (TG)</item>
+        <item>Stasiun Pekalongan (PK)</item>
+        <item>Stasiun Solo Balapan (SLO)</item>
+        <item>Stasiun Tugu (YK)</item>
+        <item>Stasiun Lempuyangan (LPN)</item>
+        <item>Stasiun Wates (WT)</item>
+        <item>Stasiun Surabaya Gubeng (SGU)</item>
+        <item>Stasiun Surabaya Pasar Turi (SBI)</item>
+        <item>Stasiun Malang (ML)</item>
+        <item>Stasiun Sidoarjo (SDA)</item>
+        <item>Stasiun Jember (JR)</item>
+        <item>Stasiun Madiun (MN)</item>
+        <item>Stasiun Blitar (BL)</item>
+    </array>
+    <string name="txt_konfirmasi">Konfirmasi Pemesanan</string>
+    <string name="txt_tarif">Tarif Tiket</string>
+    <string name="tarif">Rp200.000</string>
+    <string name="btn_batal">Batal</string>
+    <string name="btn_beli">Beli</string>
+    <string name="txt_berhasil">Berhasil Mendapatkan Tiket !</string>
+    <string name="info_nama">Nama :</string>
+    <string name="info_jam">Jam :</string>
+    <string name="info_tanggal">Tanggal :</string>
+    <string name="info_tujuan">Tujuan :</string>
+
+</resources>

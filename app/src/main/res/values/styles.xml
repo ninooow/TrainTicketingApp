@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SpinnerTimePickerDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:timePickerStyle">@style/SpinnerTimePicker</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/OkButtonStyle</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/OkButtonStyle</item>
+    </style>
+
+    <style name="SpinnerTimePicker" parent="android:Widget.Material.TimePicker">
+        <item name="android:timePickerMode">spinner</item>
+    </style>
+    <style name="OkButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">#1E293B</item>
+    </style>
+</resources>
